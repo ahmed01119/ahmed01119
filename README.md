@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed mostafa/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/ahmed mostafa/](https://www.linkedin.com/in/ahmed-mostafa-54ab80308/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ahmed_mostafa34" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20mostafa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/ahmed01119
