@@ -23,8 +23,7 @@
 <a href="https://www.linkedin.com/in/ahmed-mostafa-54ab80308/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ahmed_mostafa34" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20mostafa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<a href="https://www.buymeacoffee.com/ahmed01119
-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
