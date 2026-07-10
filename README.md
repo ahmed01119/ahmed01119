@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Flutter developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS Graduated, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with flutter and dart, or anything related to mobile development.
 
 
